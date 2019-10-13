@@ -1,8 +1,10 @@
 # EnvironmentalNarrativesBook
 
+## Dataset details
 1830_Roy Rozensweig, Eight Hours or What We Will Excerpt
 287
 
+<hr>
 1836_Lincoln, History of Worcester 1836 archive org Description of the canal
 256
 
