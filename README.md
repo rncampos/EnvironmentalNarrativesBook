@@ -70,10 +70,10 @@ Below we give some details of each text (sorted by date).
 <br>Tokens: 468
 
 <b>Title: 2019_6_20_Renee Diaz, Construction, WooSox & Regulation are Killing CD dreams WBJ 20-6-2019</b>
-<b>Title: 739
+<br>Tokens: 739
 
 <b>Title: 2019_6_24_Worcester gets brownfields funds WTG 24-6-2019</b>
-<b>Title: 517
+<br>Tokens: 517
 
 <b>Title: 2019_6_24_Worcester pledges $3M to Green Island n... - News - telegram.com 24-6-2019 - Worcester, MA</b>
 <br>Tokens: 490
