@@ -3,7 +3,7 @@
 ## Dataset details
 Below we give some details of each text (sorted by date).
 
-Title:<b> 1 - 1837_Lincoln, from History of Worcester (archive.org) landscape description</b>
+Title:<b> 1 - 1862_Lincoln, from History of Worcester (archive.org) landscape description</b>
 <br>Tokens: 256
 
 Title:<b> 2 - 1879_Abijah Perkins Marvin, History of Worcester (archive.org), railroad descriptionn</b>
