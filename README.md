@@ -1,4 +1,13 @@
-# EnvironmentalNarrativesBook
+# Greening a PostIndustrial City:  Applying keyword extractor methods to monitor a fast-changing environmental narrative 
+
+Worcester, Massachusetts (population just under 200,000) is the second largest city after Boston in Massachusetts, USA.  It was important in the American industrial revolution; factories dominated its landscape until the mid-20th century when the city slid physically, and mentally, into post-industrial decline.
+
+At first glance, Worcester might present an all-too-familiar global story of gentrification, the loss of city identity and community, but does even a small survey of the historic record of local public discourse confirm this view? Or does a more complicated local story surface?     
+ 
+To answer these questions,  literary geographer [Sarah Luria](https://www.holycross.edu/academics/programs/english/faculty/sarah-luria) teams up with computer scientist [Ricardo Campos](http://www.ccc.ipt.pt/~ricardo/), developer of the keyword extractor [YAKE!](http://yake.inesctec.pt) to discover if it can create a helpful survey or image of stories told about a neighborhood over time. We believe this interdisciplinary work can play a crucial role by showing how Artificial Intelligence (AI) can track this fast-developing story of urban revitalization and environmental cleanup.
+
+From our survey we curated a small corpus of 26 English-language texts that described the Canal District/Green Island over time. A majority of the texts are  from 2018-2019, but examples from 1862, 1917, the 1980s and 1990s provide some historic range. The corpus includes descriptions of the Canal District before the industrial revolution altered it dramatically, the building of its canal and railroad, the peak of its industrialization and identity as an Irish working class neighborhood,  its post-industrial decline, and its stages of revitalization. While a majority of texts come from the local major newspaper The Worcester Telegram Gazette, the corpus includes articles from New York Times, Boston Globe, and National Public Radio; also included are  Worcester-born poet Mary Fell’s 1984 poem The Prophecy and historian Roy Rosenzweig’s acclaimed history of Worcester’s working class Eight Hours for What We Will (1985). A description of each one is given below.
+
 
 ## Dataset details
 Below we give some details of each text (sorted by date).
