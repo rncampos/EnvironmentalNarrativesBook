@@ -67,7 +67,7 @@ Below we give some details of each text (sorted by date).
 
 <b>Filename</b>: 9 - 1989-10-12_A New Look for an Old Area (New York Times) (Lafayette Place/Green Island)
 <br><b>Source</b>: “Worcester, Mass.: A New Focus for an Old Area,” New York Times.
-<br><b>Publication Date/<b>: 1989-10-12
+<br><b>Publication Date</b>: 1989-10-12
 <br><b>Description</b>: The building of new senior affordable housing in Green Island.
 <br><b>Tokens</b>: 450
 <br>
