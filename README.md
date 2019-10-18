@@ -95,7 +95,7 @@ Below we give some details of each text (sorted by date).
 
 <b>Filename</b>: 13 - 2000-29-6_Green Island Revitalization Plan Dropped, WTG
 <br><b>Source</b>: Lisa Eckelbecker, “Green Island Revitalization Plan Dropped,” Worcester Telegram Gazette.
-<br><b>Publication Date/<b>: 2000-29-6
+<br><b>Publication Date</b>: 2000-29-6
 <br><b>Description</b>:
 <br><b>Tokens</b>: 446
 <br>
