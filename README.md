@@ -4,7 +4,7 @@
 Below we give some details of each text (sorted by date).
 
 <b>Filename</b>: 1 - 1862_Lincoln, from History of Worcester (archive.org) landscape description
-<br><b>Source</b>:William Lincoln, from History of Worcester Lincoln, William. History of Worcester, Massachusetts, from its earliest settlement to September, 1836 : with various notices relating to the history of Worcester County. Worcester: M.D. Phillips & Co., 1862.
+<br><b>Source</b>: William Lincoln, from History of Worcester Lincoln, William. History of Worcester, Massachusetts, from its earliest settlement to September, 1836 : with various notices relating to the history of Worcester County. Worcester: M.D. Phillips & Co., 1862.
 <br><b>URL</b>: https://archive.org/details/historyofworcest1836linc/page/n6
 <br><b>Publication Date</b>: 1862
 <br><b>Description</b>: Worcester’s landscape before the industrial revolution.
@@ -16,7 +16,7 @@ Below we give some details of each text (sorted by date).
 <br><b>URL</b>: https://archive.org/details/historyofworcest03marv/page/82
 <br><b>Publication Date</b>: 1879
 <br><b>Description</b>: A description of the beginning of the Blackstone canal and the Worcester railroad.
-<br><b>Tokens/<b>: 638
+<br><b>Tokens</b>: 638
 <br>
 
 <b>Filename</b>: 3 - 1917_Washburn, Industrial History of Worcester (archive.org) re canal
